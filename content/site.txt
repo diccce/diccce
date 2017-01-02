@@ -1,4 +1,4 @@
-Title: Draftship
+Title: diccce
 
 ----
 
@@ -6,15 +6,15 @@ Author: Rafael Polutta
 
 ----
 
-Description: Curated lifestyle publication for the minimalistic gentleman.
+Description: Personal portfolio showcase of my work.
 
 ----
 
-Keywords: Kirby,CMS,file-based,Draftship,Rafael Polutta,Hamburg,Curation,Minimalist,Gentleman,Design,Products,Lifestyle
+Keywords: Kirby,CMS,file-based,Diccce,Rafael Polutta,Hamburg
 
 ----
 
 Copyright: 
 
 Made in Hamburg, Germany.
-© (date: Year) Draftship by (link:http://diccce.com/ text:Rafael Polutta)
+© (date: Year) diccce by Rafael Polutta
