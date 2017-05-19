@@ -1,10 +1,28 @@
-title: Page
-pages: true
+title: Default
+pages:
+  template:
+    - module.text
+    - module.quote
+    - module.gallery
+    - module.preview
 files: true
+
 fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
-    type:  textarea
+
+  sortable:
+    label: Sortable
+    type:  sortable
+
+    layout:  base
+    variant: null
+
+    limit: false
+
+    parent: null
+    prefix: null
+
+    options:
+      limit: false

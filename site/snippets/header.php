@@ -13,7 +13,6 @@
   <link rel="icon" href="/assets/images/favicon.png" type="image/png">
   <link rel="apple-touch-icon-precomposed" href="/assets/images/apple-touch-icon-precomposed.png">
 
-  <?php echo css('assets/css/normalize.css') ?>
   <?php echo css('assets/css/keyframes.css') ?>
   <?php echo css('assets/css/main.css') ?>
   <?php echo css('assets/css/pageTransitions.css') ?>

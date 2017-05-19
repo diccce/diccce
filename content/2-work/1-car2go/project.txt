@@ -1,0 +1,18 @@
+Title: car2go
+
+----
+
+Jobtitle: Product Designer 
+(image:/assets/images/ios.svg class:preview_platform)
+(image:/assets/images/android.svg class:preview_platform)
+(image:/assets/images/wp.svg class:preview_platform)
+
+----
+
+Description: 
+You've never done carsharing like this before. car2go means carsharing wherever you want, whenever you need, without the costs or hassles of owning a car. Use the app to find, drive and park your next ride—without planning in advance.
+
+----
+
+Link: 
+Coming Soon

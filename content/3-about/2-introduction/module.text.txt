@@ -1,0 +1,31 @@
+Title: Introduction
+
+----
+
+Text: 
+
+Based in Hamburg, Germany, I am a designer who loves simple things, well designed products and beautiful typography.
+Since 2012 I consciously look at design and try to learn everyday from what I see.
+
+----
+
+Modulesettings: 
+
+----
+
+Width: medium
+
+----
+
+Fontsize: intro
+
+----
+
+Grid: 4
+
+----
+
+Headline: 
+
+Rafael Polutta. 
+Designer at car2go.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.4">
+        <g id="diccce_home" transform="translate(-640.000000, -1953.000000)" fill="#F4F4F4">
+            <g id="draftship" transform="translate(220.000000, 1541.000000)">
+                <path d="M428,428 C423.581722,428 420,424.418278 420,420 C420,415.581722 423.581722,412 428,412 C432.418278,412 436,415.581722 436,420 C436,424.418278 432.418278,428 428,428 Z M426,423.311389 L427.017757,424.333333 L431.333333,420 L427.017757,415.666667 L426,416.688611 L429.29782,420 L426,423.311389 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

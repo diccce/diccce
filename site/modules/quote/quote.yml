@@ -1,0 +1,13 @@
+title: Quote
+pages: false
+files: false
+
+fields:
+  title:
+    label: Module title
+    type: text
+  
+  quote:
+    label: Quote
+    type: textarea
+    buttons:

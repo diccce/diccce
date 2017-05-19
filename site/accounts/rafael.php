@@ -8,3 +8,9 @@ language: en
 role: admin
 firstname: Rafael
 lastname: Polutta
+history:
+  - home/quote
+  - home/car2go
+  - home/intro
+  - about
+  - about/education

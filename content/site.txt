@@ -10,11 +10,11 @@ Description: Personal portfolio showcase of my work.
 
 ----
 
-Keywords: Kirby,CMS,file-based,Diccce,Rafael Polutta,Hamburg
+Keywords: Kirby, CMS, file-based, Diccce, Rafael Polutta, Hamburg
 
 ----
 
 Copyright: 
 
-Made in Hamburg, Germany.
-© (date: Year) diccce by Rafael Polutta
+Thanks for stopping by, I really appreciate it.
+© (date: Year) (link: home text: Rafael Polutta), all rights reserved.

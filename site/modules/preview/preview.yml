@@ -1,0 +1,16 @@
+title: Preview
+pages: false
+files: false
+
+fields:
+  title:
+    label: Module title
+    type: text
+  
+  headline:
+    label: Headline
+    type: text
+
+  text:
+    label: Text
+    type: textarea
