@@ -15,6 +15,7 @@
 
   <?php echo css('assets/css/keyframes.css') ?>
   <?php echo css('assets/css/main.css') ?>
+  <?php echo css('assets/css/animate.css') ?>
   <?php echo css('assets/css/pageTransitions.css') ?>
 
 </head>

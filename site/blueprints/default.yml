@@ -4,7 +4,8 @@ pages:
     - module.text
     - module.quote
     - module.gallery
-    - module.preview
+    - module.preview-left
+    - module.preview-right
 files: true
 
 fields:
