@@ -1,6 +1,6 @@
-<div class="preview-module">
+<div class="preview-module" data-offset="8">
 
-    <div class="group">
+    <div class="group preview-text" data-offset="-8">
         <div class="col col-1"></div>
         <div class="col col-3">
           <h2><?= kirbytext($module->headline()) ?></h2>
@@ -11,7 +11,7 @@
         <div class="col col-4"></div>
     </div>
 
-    <div class="group preview-image">
+    <div class="group preview-image" data-offset="-5">
     	<div class="col col-2"></div>
     	<div class="col col-5">
     		<?php

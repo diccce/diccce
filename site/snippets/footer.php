@@ -36,6 +36,7 @@
     </script>
     <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
     <?php echo js('assets/js/jquery.smoothState.min.js') ?>
+    <?php echo js('assets/js/scroll.js') ?>
     <?php echo js('assets/js/main.js') ?>
 
     <script>
