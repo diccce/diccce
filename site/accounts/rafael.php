@@ -9,7 +9,8 @@ role: admin
 firstname: Rafael
 lastname: Polutta
 history:
+  - about/experience
+  - about/intro
   - about
-  - home/draftship
-  - home/car2go
   - home
+  - home/hero

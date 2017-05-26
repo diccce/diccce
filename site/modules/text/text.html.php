@@ -9,7 +9,7 @@
 	
 	<div class="group">
 		<div class="col col-3"></div>
-		<div class="col col-4 wow fadeInUp">
+		<div class="col col-4">
 			<?= kirbytext($module->text()) ?>
 		</div>
 		<div class="col col-1"></div>

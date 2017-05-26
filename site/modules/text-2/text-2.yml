@@ -1,0 +1,12 @@
+title: Text 2
+pages: false
+files: false
+
+fields:
+  title:
+    label: Module Title
+    type: text
+
+  text:
+    label: Text
+    type: textarea

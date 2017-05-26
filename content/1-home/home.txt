@@ -2,4 +2,4 @@ Title: Home
 
 ----
 
-Sortable: intro, car2go, draftship, quote
+Sortable: hero, car2go, draftship, quote

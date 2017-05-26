@@ -2,11 +2,13 @@ Title: Education
 
 ----
 
-Headline: Education
+Headline: 
 
 ----
 
 Text: 
+
+### Education
 
 **Hamburger Akademie
 Communication Design & Art Direction**

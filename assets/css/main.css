@@ -104,6 +104,7 @@ h2 {
 h3 {
 	font-size: 1.333em;
 	line-height: 1.667rem;
+	margin-bottom: 1.333rem;
 }
 
 /* Links */
@@ -211,6 +212,7 @@ blockquote {
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
+	line-height: 1.667rem;
 }
 
 /* 
@@ -293,6 +295,9 @@ html {
 	/* Highlight color for WebKit-bases touch devices. */
 	-webkit-tap-highlight-color: rgba(113, 239, 172, .5);
 }
+body {
+	height: auto !important;
+}
 
 @media all and (max-width: 30em) {
   html {
@@ -316,7 +321,6 @@ html {
 .header {
 	padding-top: 2.667rem;
 	padding-bottom: 1.333rem;
-	margin-bottom: 9.333rem;
 }
 
 /* 
@@ -367,7 +371,7 @@ html {
 	4.1 Text
 */
 
-.text-module, .quote-module {
+.text-module, .quote-module, .hero-module {
 	padding: 4rem 0 6.250rem;
 }
 .preview-module {

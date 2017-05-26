@@ -26,6 +26,3 @@ Grid: 4
 ----
 
 Headline: 
-
-Rafael Polutta. 
-Designer at car2go.
