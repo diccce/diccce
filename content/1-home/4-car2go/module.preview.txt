@@ -1,0 +1,29 @@
+Title: car2go
+
+----
+
+Headline: car2go
+
+----
+
+Text: Carsharing wherever you want, whenever you need, without the costs or hassles of owning a car.
+
+----
+
+Linktitle: Get the app
+
+----
+
+Link: 
+
+----
+
+Previewimage: car2go-preview.png
+
+----
+
+Modulesettings: 
+
+----
+
+Alignment: left

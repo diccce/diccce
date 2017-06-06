@@ -1,0 +1,29 @@
+Title: draftship
+
+----
+
+Headline: Draftship
+
+----
+
+Text: A curated magazine for the modern gentleman and design enthusiast.
+
+----
+
+Linktitle: See in action
+
+----
+
+Link: 
+
+----
+
+Previewimage: draftship-preview.png
+
+----
+
+Modulesettings: 
+
+----
+
+Alignment: right

@@ -21,7 +21,3 @@
 </head>
 <body>
 <div class="index m-scene" id="main">
-
-  <header class="header scene_element scene_element--delayed scene_element--fadeindown cf" role="banner" >
-    <?php snippet('menu') ?>
-  </header>

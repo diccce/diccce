@@ -7,11 +7,21 @@ fields:
     label: Module Title
     type: text
   
-  headline:
-    label: Headline
+  preface:
+    label: Preface
+    type: text
+
+  hero:
+    label: Hero Title
     type: textarea
     buttons:
 
-  text:
-    label: Text
-    type: textarea
+  linkTitle:
+    label: Link Title
+    type: text
+    width: 1/2
+
+  link:
+    label: Link
+    type: url
+    width: 1/2

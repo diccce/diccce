@@ -1,12 +1,20 @@
-Title: Hero
+Title: hero
 
 ----
 
-Headline: This is my story
+Preface: Hej, I am Rafael Polutta
 
 ----
 
-Text: 
+Hero: 
 
-Rafael Polutta.
-Designer at car2go.
+Designer who thinks in code
+based in Hamburg.
+
+----
+
+Linktitle: This is my story
+
+----
+
+Link: 

@@ -9,8 +9,8 @@ role: admin
 firstname: Rafael
 lastname: Polutta
 history:
-  - about/experience
-  - about/intro
-  - about
   - home
-  - home/hero
+  - home/selected-projects
+  - home/implement
+  - home/test
+  - home/prototype

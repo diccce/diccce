@@ -1,5 +1,5 @@
-Title: Home
+Title: Overview
 
 ----
 
-Sortable: hero, car2go, draftship, quote
+Sortable: hero, intro, selected-projects, car2go, draftship, design-thinking, empathize, define, ideate, implement, prototype, test

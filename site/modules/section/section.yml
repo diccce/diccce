@@ -1,0 +1,29 @@
+title: Section
+pages: false
+files: false
+
+fields:
+  title:
+    label: Module Title
+    type: text
+
+  preface:
+    label: Preface
+    type: text
+  
+  headline:
+    label: Headline
+    type: textarea
+    buttons:
+
+  moduleSettings:
+    label: Module settings
+    type: headline
+  alignment:
+    label: Module alignment
+    type: select
+    default: left
+    options:
+      left: left
+      center: center
+      right: right

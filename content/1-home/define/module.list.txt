@@ -1,0 +1,13 @@
+Title: define
+
+----
+
+Icon: search.svg
+
+----
+
+Headline: Define
+
+----
+
+Text: Combine all research and observe where the users problems exist.

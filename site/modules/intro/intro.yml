@@ -1,0 +1,17 @@
+title: Intro
+pages: false
+files: false
+
+fields:
+  title:
+    label: Module Title
+    type: text
+  
+  headline:
+    label: Headline
+    type: textarea
+    buttons:
+
+  text:
+    label: Text
+    type: textarea

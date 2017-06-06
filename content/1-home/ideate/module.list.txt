@@ -1,0 +1,13 @@
+Title: ideate
+
+----
+
+Icon: bulb.svg
+
+----
+
+Headline: Ideate
+
+----
+
+Text: Generate a range of crazy, creative ideas.

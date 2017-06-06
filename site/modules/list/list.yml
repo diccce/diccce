@@ -1,0 +1,21 @@
+title: List
+pages: false
+files: true
+
+fields:
+  title:
+    label: Module Title
+    type: text
+
+  icon:
+    label: Icon
+    type: image
+    icon: picture-o
+  
+  headline:
+    label: Headline
+    type: text
+
+  text:
+    label: Text
+    type: textarea

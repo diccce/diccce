@@ -1,0 +1,13 @@
+Title: implement
+
+----
+
+Icon: rocket.svg
+
+----
+
+Headline: Implement
+
+----
+
+Text: Put the vision into effect.

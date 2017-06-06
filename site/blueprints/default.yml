@@ -1,13 +1,11 @@
 title: Default
 pages:
   template:
-    - module.text
-    - module.text-2
-    - module.quote
     - module.hero
-    - module.gallery
-    - module.preview-left
-    - module.preview-right
+    - module.intro
+    - module.section
+    - module.preview
+    - module.list
 files: true
 
 fields:

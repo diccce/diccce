@@ -1,5 +1,0 @@
-Title: About
-
-----
-
-Sortable: intro, experience, education

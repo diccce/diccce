@@ -1,0 +1,57 @@
+title: Preview
+pages: false
+files:
+  sortable: true
+
+fields:
+  title:
+    label: Module Title
+    type: text
+  
+  headline:
+    label: Headline
+    type: text
+    required: true
+
+  text:
+    label: Text
+    type: textarea
+    buttons:
+    required: true
+
+  linkTitle:
+    label: Link Title
+    type: text
+    width: 1/2
+
+  link:
+    label: Link
+    type: url
+    width: 1/2
+
+  previewImage:
+    label: Image
+    type: image
+    icon: picture-o
+    required: true
+
+  linkTitle:
+    label: Link Title
+    type: text
+    width: 1/2
+
+  link:
+    label: Link
+    type: url
+    width: 1/2
+
+  moduleSettings:
+    label: Module settings
+    type: headline
+  alignment:
+    label: Module alignment
+    type: select
+    default: left
+    options:
+      left: left
+      right: right

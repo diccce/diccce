@@ -1,0 +1,13 @@
+Title: empathize
+
+----
+
+Icon: user.svg
+
+----
+
+Headline: Empathize
+
+----
+
+Text: Conduct research to develop an understanding of the users.
