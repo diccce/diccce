@@ -10,7 +10,7 @@ firstname: Rafael
 lastname: Polutta
 history:
   - home
+  - home/say-hello
+  - home/draftship
   - home/selected-projects
   - home/implement
-  - home/test
-  - home/prototype

@@ -98,6 +98,7 @@ a:hover {
 	text-transform: uppercase;
 	letter-spacing: .1rem;
 	top: 2rem;
+	margin-left: 5rem;
 }
 
 .link:before {
@@ -308,11 +309,17 @@ body {
 */
 
 .hero-module {
-	padding: 8rem 0 4rem;
-	height: 100vh;
+	padding: 10rem 0 8rem;
 }
-.intro-module, .section-module {
+.intro-module, .section-module, .list-module {
 	padding: 3rem 0 6rem;
+}
+
+.section--alignment-right {
+	text-align: right;
+}
+.section--alignment-center {
+	text-align: center;
 }
 
 .preview-module {
@@ -320,6 +327,14 @@ body {
 }
 .preview-image {
 	position: relative;
-    margin-top: -15.5rem;
+    margin-top: -13.5rem;
     z-index: -1;
 }
+
+.icon {
+	height: 80px;
+    width: 80px;
+    margin-bottom: 1rem;
+}
+
+

@@ -1,0 +1,20 @@
+Title: say-hello
+
+----
+
+Preface: Say hello
+
+----
+
+Headline: 
+
+Follow me or 
+drop me a line.
+
+----
+
+Modulesettings: 
+
+----
+
+Alignment: center

@@ -12,8 +12,7 @@
 	</div>
 	
 	<div class="group">
-		<div class="col col-1"></div>
-		<div class="col col-7">
+		<div class="col col-8">
 			<a href="<?= html($module->link()) ?>" class="link"><?= html($module->linkTitle()) ?></a>
 		</div>
 	</div>
