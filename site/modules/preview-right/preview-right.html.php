@@ -1,16 +1,16 @@
-<div class="preview-module">
+<div class="preview-module wow fadeInUp">
 
     <div class="group preview-text">
         <div class="col col-1"></div>
         <div class="col col-3">
           <h2><?= kirbytext($module->headline()) ?></h2>
           <?= kirbytext($module->text()) ?>
-          <a href="<?= html($module->link()) ?>" class="link"><?= html($module->linktitle()) ?></a>
+          <a href="<?= html($module->link()) ?>" target="_blank" class="link"><?= html($module->linktitle()) ?></a>
         </div>
         <div class="col col-4"></div>
     </div>
 
-    <div class="group preview-image">
+    <div class="group preview-image" data-bottom-top="transform:translateY(-40px);" data-top-bottom="transform:translateY(40px);">
       <div class="col col-3"></div>
     	<div class="col col-5">
     		<?php

@@ -1,8 +1,8 @@
-  <footer class="footer scene_element scene_element--delayed scene_element--fadeinup cf" role="contentinfo">
+  <footer class="footer scene_element scene_element--delayed scene_element--fadeinup wow fadeInUp cf" role="contentinfo">
 
     <div class="group">
       <div class="col col-3 bottom">
-        <p><a href="<?= html($site->dribbble()) ?>">Dribbble</a> / <a href="<?= html($site->instagram()) ?>">Instagram</a> / <a href="<?= html($site->twitter()) ?>">Twitter</a></p>
+        <p><a href="<?= html($site->dribbble()) ?>" target="_blank">Dribbble</a> / <a href="<?= html($site->instagram()) ?>" target="_blank">Instagram</a> / <a href="<?= html($site->twitter()) ?>" target="_blank">Twitter</a></p>
       </div>
       <div class="col col-5 right">
         <?php echo $site->copyright()->kirbytext() ?>
@@ -27,6 +27,23 @@
   	ga('create', 'UA-65297055-1', 'auto');
   	ga('send', 'pageview');
 	</script>
+
+  <script>
+    $(function() {
+      $("a[href*='#']:not([href='#'])").click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+          $('html,body').animate({
+            scrollTop: target.offset().top
+          }, 1000);
+          return false;
+        }
+      }
+    });
+    });
+  </script>
 
   <script src="assets/js/wow.min.js"></script>
   <script>

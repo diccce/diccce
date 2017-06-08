@@ -1,4 +1,4 @@
-<div class="hero-module scene_element scene_element--delayed scene_element--fadeindown">
+<div class="hero-module scene_element scene_element--delayed scene_element--fadeindown wow fadeInDown">
 	<div class="group">
 		<div class="col col-8">
 			<p class="sub"><?= html($module->preface()) ?></p>

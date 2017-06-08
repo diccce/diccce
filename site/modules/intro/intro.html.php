@@ -1,4 +1,4 @@
-<div class="intro-module">
+<div id="about" class="intro-module wow fadeInUp">
 	<div class="group">
 		<div class="col col-1"></div>
 		<div class="col col-3">

@@ -25,4 +25,4 @@ Linktitle: Just do it
 
 ----
 
-Link: 
+Link: mailto:hello@diccce.com

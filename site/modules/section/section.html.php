@@ -1,4 +1,4 @@
-<div class="section-module section--alignment-<?= $module->alignment() ?>">
+<div class="section-module wow fadeInUp section--alignment-<?= $module->alignment() ?>">
 	<div class="group">
 		<div class="col col-8">
 			<p class="sub"><?= html($module->preface()) ?></p>
