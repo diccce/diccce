@@ -314,8 +314,11 @@ body {
 .hero-module {
 	padding: 10rem 0 8rem;
 }
-.intro-module, .section-module{
-	padding: 3rem 0 6rem;
+.intro-module {
+	padding: 2rem 0 6rem;
+}
+.section-module {
+	padding: 4rem 0 2rem;
 }
 
 .section--alignment-left .link, .section--alignment-right .link {
@@ -326,6 +329,7 @@ body {
 }
 .section--alignment-center {
 	text-align: center;
+	padding: 2rem 0 6rem;
 }
 
 .preview-module {
@@ -338,10 +342,10 @@ body {
 }
 
 .list-module {
-	padding: 1rem 0;
+	padding: 0;
 }
 .list-module:nth-last-of-type(2) {
-	padding-bottom: 7rem;
+	padding: 1rem 0 7rem;
 }
 .icon {
 	height: 80px;
