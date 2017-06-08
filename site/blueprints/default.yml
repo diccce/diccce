@@ -4,7 +4,8 @@ pages:
     - module.hero
     - module.intro
     - module.section
-    - module.preview
+    - module.preview-left
+    - module.preview-right
     - module.list
 files: true
 

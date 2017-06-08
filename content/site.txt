@@ -10,7 +10,7 @@ Description: Personal portfolio showcase of my work.
 
 ----
 
-Keywords: Kirby, CMS, file-based, Diccce, Rafael Polutta, Hamburg
+Keywords: Kirby,CMS,file-based,Diccce,Rafael Polutta,Hamburg
 
 ----
 
@@ -18,3 +18,15 @@ Copyright:
 
 Thanks for stopping by, I really appreciate it.
 © (date: Year) (link: home text: Rafael Polutta), all rights reserved.
+
+----
+
+Dribbble: https://dribbble.com/diccce
+
+----
+
+Instagram: https://www.instagram.com/dicccecom/
+
+----
+
+Twitter: https://twitter.com/diccce

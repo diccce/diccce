@@ -1,4 +1,4 @@
-Title: car2go
+Title: car2go-preview
 
 ----
 
@@ -19,11 +19,3 @@ Link:
 ----
 
 Previewimage: car2go-preview.png
-
-----
-
-Modulesettings: 
-
-----
-
-Alignment: left

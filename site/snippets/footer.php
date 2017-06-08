@@ -1,8 +1,8 @@
   <footer class="footer scene_element scene_element--delayed scene_element--fadeinup cf" role="contentinfo">
 
     <div class="group">
-      <div class="col col-3">
-        
+      <div class="col col-3 bottom">
+        <p><a href="<?= html($site->dribbble()) ?>">Dribbble</a> / <a href="<?= html($site->instagram()) ?>">Instagram</a> / <a href="<?= html($site->twitter()) ?>">Twitter</a></p>
       </div>
       <div class="col col-5 right">
         <?php echo $site->copyright()->kirbytext() ?>

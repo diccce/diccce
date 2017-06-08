@@ -1,4 +1,4 @@
-Title: draftship
+Title: draftship-preview
 
 ----
 
@@ -19,11 +19,3 @@ Link:
 ----
 
 Previewimage: draftship-preview.png
-
-----
-
-Modulesettings: 
-
-----
-
-Alignment: right

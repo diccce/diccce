@@ -1,4 +1,4 @@
-title: Preview
+title: Preview Left
 pages: false
 files:
   sortable: true
@@ -34,14 +34,3 @@ fields:
     type: image
     icon: picture-o
     required: true
-
-  moduleSettings:
-    label: Module settings
-    type: headline
-  alignment:
-    label: Module alignment
-    type: select
-    default: left
-    options:
-      left: left
-      right: right
