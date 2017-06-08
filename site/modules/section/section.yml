@@ -7,6 +7,9 @@ fields:
     label: Module Title
     type: text
 
+  title:
+    label: Icon 1
+
   preface:
     label: Preface
     type: text
@@ -15,6 +18,16 @@ fields:
     label: Headline
     type: textarea
     buttons:
+
+  linkTitle:
+    label: Link Title
+    type: text
+    width: 1/2
+
+  link:
+    label: Link
+    type: url
+    width: 1/2
 
   moduleSettings:
     label: Module settings

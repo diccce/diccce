@@ -6,16 +6,21 @@ fields:
   title:
     label: Module Title
     type: text
-
-  icon:
-    label: Icon
-    type: image
-    icon: picture-o
-  
-  headline:
-    label: Headline
-    type: text
-
-  text:
-    label: Text
-    type: textarea
+    
+  skills:
+    label: Skills
+    type: structure
+    entry: >
+      <strong>{{headline}}</strong></br>
+      {{text}}
+    fields:
+      icon:
+        label: Icon
+        type: image
+        icon: picture-o
+      headline:
+        label: Headline
+        type: text
+      text:
+        label: Text
+        type: textarea

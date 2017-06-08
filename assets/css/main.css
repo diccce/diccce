@@ -311,10 +311,13 @@ body {
 .hero-module {
 	padding: 10rem 0 8rem;
 }
-.intro-module, .section-module, .list-module {
+.intro-module, .section-module{
 	padding: 3rem 0 6rem;
 }
 
+.section--alignment-left .link, .section--alignment-right .link {
+	display: none;
+}
 .section--alignment-right {
 	text-align: right;
 }
@@ -331,10 +334,13 @@ body {
     z-index: -1;
 }
 
+.list-module {
+	padding: 1rem 0;
+}
 .icon {
 	height: 80px;
     width: 80px;
-    margin-bottom: 1rem;
+    margin-left: -.8rem;
 }
 
 

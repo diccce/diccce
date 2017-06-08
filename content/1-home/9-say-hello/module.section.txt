@@ -18,3 +18,11 @@ Modulesettings:
 ----
 
 Alignment: center
+
+----
+
+Linktitle: Just do it
+
+----
+
+Link: 

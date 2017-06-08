@@ -1,0 +1,24 @@
+Title: process-concept
+
+----
+
+Skills: 
+
+- 
+  icon: user.svg
+  headline: Empathize
+  text: >
+    Conduct research to develop an
+    understanding of the users.
+- 
+  icon: search.svg
+  headline: Define
+  text: >
+    Combine all research and observe where
+    the users problems exist.
+- 
+  icon: bulb.svg
+  headline: Ideate
+  text: >
+    Generate a range of crazy, creative
+    ideas.
