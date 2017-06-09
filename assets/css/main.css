@@ -242,12 +242,6 @@ blockquote {
   	width: 11.1%;
 }
 
-/* Go full width below 480 pixels */
-@media only screen and (max-width: 480px) {
-	.col { margin: 1% 0 1% 0%; }
-	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8 { width: 100%; }
-}
-
 /* 
 	3 Site Layout 
 */
@@ -272,15 +266,6 @@ html {
 }
 body {
 	height: auto !important;
-}
-
-@media all and (max-width: 30em) {
-  html {
-    /* We decrease the font-size a little-bit for tiny
-       screens. Because this stylesheet uses relative units
-       everywhere, everything scales nicely. */
-    font-size: 1.25em;
-  }
 }
 
 .main, .footer, nav {
@@ -333,12 +318,14 @@ body {
 }
 
 .preview-module {
-	padding: 3rem 0 3rem;
+	padding: 1rem 0 6rem;
 }
 .preview-image {
 	position: relative;
-    margin-top: -13.5rem;
     z-index: -1;
+}
+.preview-text {
+	margin: -16.5rem 0 4rem;
 }
 
 .list-module {
@@ -351,6 +338,35 @@ body {
 	height: 80px;
     width: 80px;
     margin-left: -.8rem;
+}
+
+/* 
+	5 Mobile
+*/
+
+@media all and (max-width: 30em) {
+  html {
+    /* We decrease the font-size a little-bit for tiny
+       screens. Because this stylesheet uses relative units
+       everywhere, everything scales nicely. */
+    font-size: 1.25em;
+  }
+}
+@media only screen and (max-width: 1024px) {
+	.col { padding: 0 1.5rem !important; }
+}
+/* Go full width below 480 pixels */
+@media only screen and (max-width: 480px) {
+	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8 { width: 100%; }
+	.hero-module { padding: 5rem 0 4rem; }
+	.intro-module { padding: 1rem 0 3rem; }
+	.section-module { padding: 2rem 0 1rem; }
+	.preview-module { padding: 1rem 0 3rem; }
+	.preview-text { margin: 0; }
+	.list-module:nth-last-of-type(2) { padding: 0 0 3.5rem; }
+	.section--alignment-center { padding: 1rem 0 3rem; }
+	.preview-image { margin-top: 2rem;}
+	.footer p {text-align: center}
 }
 
 
