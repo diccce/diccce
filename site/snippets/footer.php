@@ -67,6 +67,9 @@
   <?php echo js('assets/js/skrollr.min.js') ?>
   <script>
     var s = skrollr.init();
+      if (s.isMobile()) {
+    s.destroy();
+    }
   </script>
 
 </body>

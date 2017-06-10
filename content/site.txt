@@ -17,7 +17,7 @@ Keywords: Kirby,CMS,file-based,Diccce,Rafael Polutta,Hamburg
 Copyright: 
 
 Thanks for stopping by, I really appreciate it.
-© (date: Year) (link: legal text: Rafael Polutta), all rights reserved.
+© (date: Year) Rafael Polutta, all rights reserved.
 
 ----
 
